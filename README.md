@@ -51,7 +51,7 @@ Load and instantiate all objects from file.
 Create [class diagram](https://www.uml-diagrams.org/class-diagrams-overview.html) of your application, which shows structure of the designed system at the level of classes and relationships. Class diagram is type of UML diagram, which are used in software development.
 
 
-`You can choose any bonus, both of them or neither.`
+`You can choose any bonus, all of them or neither.`
 #
 
 #### Program output example (made up data):
