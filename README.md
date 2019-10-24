@@ -23,7 +23,7 @@ In this challenge you have to design school system which have certain rules. You
 - Every subject has exactly one teacher
 - Student must have a grade in each subject. (Grades are between 1 and 5)
 
-Each rule must be kept. You can use some form of validation, for example throw a RuntimeException with a message if some rule is broken. See this for inspiration.
+Each rule must be kept. You can use some form of validation, for example throw a RuntimeException with a message if some rule is broken. See [this](https://github.com/StreetOfCode/OOP-Challenges/blob/QUIZ/src/Question.java#L35) for inspiration.
 Think carefully how you apply your rules. For example you can have property ‘teacher’ in ‘Subject’ which represent teacher of this subject, or you can have property ‘subjects’ in ‘Teacher’ class. Or maybe you can have both? Which design is better?
 
 ##### More constrains:
