@@ -17,6 +17,6 @@ If you want to take some OOP challenge, we encourage you to first read instructi
 #
 
 #### Contact
-_info@streetofcode.com_
+_info@streetofcode.sk_
 
-www.streetofcode.com
+www.streetofcode.sk
