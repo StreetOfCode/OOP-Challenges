@@ -6,7 +6,7 @@
 ### School description:
 _Create different entities in school. You can create all instances in Main class. Your job is to create entities with given unbreakable relationships and then print some statistical data._ 
 
-In this challenge you have to design school system which have certain rules. You will practice [composition](https://stackify.com/oop-concepts-composition/). Your program will have very little functionality. How you design your classes matters.
+In this challenge you have to design school system which have certain rules. You will practice [composition](https://stackify.com/oop-concepts-composition/) and aggregation. Your program will have very little functionality. How you design your classes matters.
 
 ##### School consists of these entities:
 1. Classes - group of students (You can’t name class ‘Class’ so name it ‘Clazz’) 
