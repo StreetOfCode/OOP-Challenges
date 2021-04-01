@@ -11,8 +11,7 @@ If you want to take some OOP challenge, we encourage you to first read instructi
 ### Challenges:
 1. [QUIZ](https://github.com/StreetOfCode/OOP-Challenges/tree/QUIZ) - Difficulty EASY
 2. [SCHOOL](https://github.com/StreetOfCode/OOP-Challenges/tree/SCHOOL) - Diffuculty PRE-INTERMEDIATE 
-
-(More are coming)
+3. [ARMY](https://github.com/StreetOfCode/OOP-Challenges/tree/ARMY) - Diffuculty PRE-INTERMEDIATE
 
 #
 
